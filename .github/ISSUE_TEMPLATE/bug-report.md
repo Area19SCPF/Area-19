@@ -2,7 +2,7 @@
 name: Bug Report
 about: Any issue found in game
 title: Summary of Bug
-labels: bug report
+labels: bug
 assignees: ''
 
 ---
