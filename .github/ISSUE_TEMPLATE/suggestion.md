@@ -1,6 +1,6 @@
 ---
 name: Suggestion
-about: General guggestions
+about: General suggestions
 title: Title of Suggestion
 labels: suggestion
 assignees: ''
